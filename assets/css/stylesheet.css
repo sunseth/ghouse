@@ -51,6 +51,7 @@ a, a:visited, a:hover, a:active {
 	-webkit-transform: rotate(-90deg);
 	-moz-transform: rotate(-90deg);
 	-o-transform: rotate(-90deg);
+	transform: rotate(-90deg);
 }
 
 .long-divider{
@@ -350,7 +351,6 @@ a, a:visited, a:hover, a:active {
 	vertical-align: top;
 	height: 120px;
 	width: 240px;
-	line-height: 0px;
     position: relative;
     top: 80px;
 }
